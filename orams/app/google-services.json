@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "452370995808",
+    "firebase_url": "https://orams-7f5fb.firebaseio.com",
+    "project_id": "orams-7f5fb",
+    "storage_bucket": "orams-7f5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452370995808:android:b3fb2db5af53f0e8",
+        "android_client_info": {
+          "package_name": "com.project.oram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452370995808-lg9ip5ubffe4uj0n75bdqbn7cafs2oc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rmlNg3zJeBJBNvh5V0CNkEdXVhK9yqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "713939650072",
+    "firebase_url": "https://organiser-wv.firebaseio.com",
+    "project_id": "organiser-wv",
+    "storage_bucket": "organiser-wv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713939650072:android:ad08bebcd8517ca9",
+        "android_client_info": {
+          "package_name": "com.gfxbandits.placeslibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713939650072-mj20201t5su7gegguq4d1hnn52n9slb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gfxbandits.placeslibrary",
+            "certificate_hash": "2505b72a9c31cea55bca3521968c51c11d6d222c"
+          }
+        },
+        {
+          "client_id": "713939650072-dkkq6tb53qactk64g0rpegkbo8k1boo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaG2I-kCb_RjUof3cLi-rmxg1x1c3hiQg"
+        },
+        {
+          "current_key": "AIzaSyAVIfcTqLLdki8WaP6cUEjz-a1ePBHASIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713939650072-dkkq6tb53qactk64g0rpegkbo8k1boo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

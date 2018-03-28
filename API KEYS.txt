@@ -1,0 +1,17 @@
+Google Maps API KEY 
+OramsApi
+AIzaSyB_vPUUhYiikQHKgtWgUql-vUyi_cl_TgM
+
+Android Key (Auto Created Google Service)
+AIzaSyB9rmlNg3zJeBJBNvh5V0CNkEdXVhK9yqo
+
+Server Key (Auto Created by Google Service)
+AIzaSyDdTMryn4VeC15u55I5jXlHaBb87Ye97JM
+
+Browser Key (Auto Created by Google Service)
+AIzaSyAMpT6Loa0Mawid_pz17bcaL8mkY5DdajE
+
+OAuth 2.0 client IDs
+Web Client (Auto Created Google Service)
+Client ID: 452370995808-lg9ip5ubffe4uj0n75bdqbn7cafs2oc7.apps.googleusercontent.com
+

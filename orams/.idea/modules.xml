@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationlibrary/locationlibrary.iml" filepath="$PROJECT_DIR$/locationlibrary/locationlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orams.iml" filepath="$PROJECT_DIR$/orams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/placeslibrary/placeslibrary.iml" filepath="$PROJECT_DIR$/placeslibrary/placeslibrary.iml" />
+    </modules>
+  </component>
+</project>
