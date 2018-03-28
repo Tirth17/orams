@@ -7,7 +7,7 @@ import android.content.SharedPreferences
 import android.view.Window
 import android.view.WindowManager
 import android.view.inputmethod.InputMethodManager
-import com.project.medbox.AppConstants
+//import com.project.medbox.AppConstants
 import com.project.oram.Login
 import org.jetbrains.anko.clearTask
 import org.jetbrains.anko.intentFor

@@ -12,10 +12,6 @@ import io.nlopez.smartlocation.SmartLocation;
 import java.util.List;
 import java.util.Locale;
 
-/**
- * Created by Shripal17 on 19-08-2017.
- */
-
 public class LocationUtil {
 
   private static final String TAG = "LocationUtil";
