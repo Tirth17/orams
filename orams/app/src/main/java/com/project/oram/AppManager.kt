@@ -1,18 +1,24 @@
 package com.project.AppConstants.ORAM
 
-
+/**
+ * Created by yashshah2014 on 22/1/18.
+ */
 import android.app.Activity
 import android.content.Context
 import android.content.SharedPreferences
 import android.view.Window
 import android.view.WindowManager
 import android.view.inputmethod.InputMethodManager
-//import com.project.medbox.AppConstants
+import com.project.medbox.AppConstants
 import com.project.oram.Login
 import org.jetbrains.anko.clearTask
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.newTask
 import org.jetbrains.anko.noHistory
+
+/**
+ * Created by Yash on 24-10-2017.
+ */
 
 class AppManager {
 

@@ -27,22 +27,22 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     implementation 'com.android.support:appcompat-v7:25.+'
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
-    implementation 'com.google.firebase:firebase-messaging:11.6.0'
+    implementation 'com.google.firebase:firebase-messaging:11.8.0'
     testImplementation 'junit:junit:4.12'
     implementation 'com.google.maps:google-maps-services:+'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     implementation "org.jetbrains.anko:anko:$anko_version"
     implementation 'com.android.volley:volley:1.0.0'
-    implementation 'com.google.android.gms:play-services-maps:11.6.0'
+    implementation 'com.google.android.gms:play-services-maps:11.8.0'
     implementation 'com.github.jd-alexander:library:1.1.0'
-    implementation project(':locationlibrary')
-    implementation project(':placeslibrary')
+    api project(':locationlibrary')
+    api project(':placeslibrary')
     implementation 'com.github.clans:fab:1.6.4'
     implementation 'com.karumi:dexter:4.2.0'
     implementation 'org.slf4j:slf4j-nop:1.7.25'
     implementation 'com.google.maps.android:android-maps-utils:+'
-    implementation 'com.google.android.gms:play-services-places:11.6.0'
+    implementation 'com.google.android.gms:play-services-places:11.8.0'
 }
 
 apply plugin: 'com.google.gms.google-services'

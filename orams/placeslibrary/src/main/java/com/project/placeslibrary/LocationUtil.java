@@ -12,6 +12,10 @@ import io.nlopez.smartlocation.SmartLocation;
 import java.util.List;
 import java.util.Locale;
 
+/**
+ * Created by Shripal17 on 19-08-2017.
+ */
+
 public class LocationUtil {
 
   private static final String TAG = "LocationUtil";
@@ -37,7 +41,9 @@ public class LocationUtil {
         LocationUtil.this.lon = location.getLongitude();
         latLng = new LatLng(location.getLatitude(), location.getLongitude());
         //updateCity(location);
-        myLocationListener.onLocationUpdate(location, !ready);
+        if(myLocationListener!=null) {
+          myLocationListener.onLocationUpdate(location, !ready);
+        }
         ready = true;
       }
     });

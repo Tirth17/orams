@@ -1,6 +1,8 @@
-package com.project.oram
+package com.project.medbox
 
-
+/**
+ * Created by yashshah2014 on 22/1/18.
+ */
 open class AppConstants
 {
     companion object {
